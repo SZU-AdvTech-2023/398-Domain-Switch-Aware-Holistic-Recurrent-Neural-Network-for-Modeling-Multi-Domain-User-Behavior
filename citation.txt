@@ -1,0 +1,9 @@
+@inproceedings{REPO398,
+    author = "Kim, Donghyun and Kim, Sungchul and Zhao, Handong and Li, Sheng and Rossi, Ryan A. and Koh, Eunyee",
+    booktitle = "Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining",
+    numpages = "9",
+    pages = "663-671",
+    series = "WSDM '19",
+    title = "{Domain Switch-Aware Holistic Recurrent Neural Network for Modeling Multi-Domain User Behavior}",
+    year = "2019"
+}
